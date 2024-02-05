@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CielitoM
-- 👀 I’m interested in eveything
+- 👀 I’m interested in everything
 - 🌱 I’m currently learning java, PostgreSQL and Node JS
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me cielitomelga7@gmail.com
