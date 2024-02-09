@@ -1,4 +1,4 @@
-# Hi there, I'm [Cielito]! 👋
+# Hi there, I'm Cielito! 👋
 
 ## 👀 About Me
 - I love reading, learning new things, and have a strong passion for programming.
