@@ -1,4 +1,4 @@
-###👋 Hi, I’m @CielitoM
+###Hi, I’m @CielitoM
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning java, PostgreSQL and Node JS
 - 💞️ I’m looking to collaborate on anything
